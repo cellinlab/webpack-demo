@@ -1,0 +1,11 @@
+.content {
+  padding: 20px;
+  background-color: gainsboro;
+}
+.brand {
+  font-size: 20px;
+  color: #f00;
+}
+.brand::placeholder {
+  color: #00f;
+}
