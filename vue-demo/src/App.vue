@@ -15,8 +15,11 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
+@fontColor: red;
+@bgColor: #eee;
 .brand {
-  color: red;
+  color: @fontColor;
+  background-color: @bgColor;
 }
 </style>
