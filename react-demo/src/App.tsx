@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./App.css";
+import "./App.less";
 
 const App = () => {
   return <div className="brand">Cellinlab</div>;
